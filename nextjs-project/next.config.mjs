@@ -2,7 +2,7 @@
 
 const nextConfig = {
     distDir: 'build',
-    trailingSlash: true,
+    trailingSlash: true, 
 };
 
 export default nextConfig;
