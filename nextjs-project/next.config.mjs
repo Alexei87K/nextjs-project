@@ -1,8 +1,7 @@
 /** @type {import('next').NextConfig} */
 
 const nextConfig = {
-    distDir: 'build',
-    trailingSlash: true, 
+    distDir: 'build', 
 };
 
 export default nextConfig;
